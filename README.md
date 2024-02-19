@@ -1,6 +1,6 @@
 # Hey there👋, I am Fabien the creator of Scrapoxy
 
-<img src="https://scrapoxy.io/assets/images/scrapoxy-warrior.png" width="21%" align="right" />
+<img src="https://scrapoxy.io/assets/images/scrapoxy-warrior.png" width="18%" align="right" />
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=3000&pause=100&color=D71919&vCenter=true&random=false&width=650&lines=Scrapoxy+is+a+super+proxy+aggregator;%F0%9F%91%89+It+is+free+and+open-source;%F0%9F%91%89+It+is+tailored+for+the+web+scraping+industry;%F0%9F%91%89+It+has+tons+of+connectors+and+useful+features)](https://git.io/typing-svg)
 
