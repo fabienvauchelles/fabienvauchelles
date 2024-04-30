@@ -29,7 +29,7 @@
 * [Voxxed Triestre](https://voxxeddays.com/trieste/) (May 30, Italia)
 * [DevFest Lille](https://devfest.gdglille.org/) (June 6-7, France)
 * [Code Europe](https://www.codeeurope.pl/) (June 10-11, Poland)
-* [Voxxed Luxembourg](https://luxembourg.voxxeddays.com/) (July 20-21, France)
+* [Voxxed Luxembourg](https://luxembourg.voxxeddays.com/) (July 20-21, Luxembourg)
 * [OpenSouthCode 2024](https://www.opensouthcode.org/conferences/opensouthcode2024) (June 21-22, Spain)
 * [SunnyTech](https://sunny-tech.io/) (July 4-5, France)
 * [LeHack](https://lehack.org/) (July 5-7, France)
