@@ -40,8 +40,8 @@
 
 ### Cracking the Code: Decoding Anti-Bot Systems!
 
-* Devoxx France 2024, Paris, France (TBP)
-* PyCon Lithuania 2024, Vilnius, Lithuania (TBP)
+* Devoxx France 2024, Paris, France ([video link](https://www.youtube.com/watch?v=6zCkdmen52U))
+* PyCon Lithuania 2024, Vilnius, Lithuania ([video link](https://www.youtube.com/watch?v=M7MP624XXnM))
 * Extract Summit 2023, Dublin, Ireland ([video link](https://www.youtube.com/watch?v=0KTIloOlDK0))
 
 
