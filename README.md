@@ -48,7 +48,7 @@
 ### Live-Coding: Mastering Web Scraping with Scrapoxy
 
 * PyCon Lithuania 2024, Vilnius, Lithuania ([video link](https://www.youtube.com/watch?v=Gtnke2ehQ6U))
-* Node Congress 2024, Online (TBP)
+* Node Congress 2024, Online ([video link](https://portal.gitnation.org/contents/mastering-web-scraping-with-scrapoxy-unleash-your-data-extraction-wizardry))
 * Open Source Day 2024, Florence, Italia ([video link](https://www.youtube.com/watch?v=Kcq36_lMbvY))
 
 
