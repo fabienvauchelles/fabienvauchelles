@@ -21,42 +21,42 @@
 
 ## Upcoming Events as Speaker ##
 
-* [WeAreDevelopers](https://www.wearedevelopers.com/event/security-day-may-2024) (May 8, Online)
-* [TiL conference](https://til-conf.netlify.app/) (May 16-17, Online)
-* [DefCamp Cluj-Napoca](https://cluj.def.camp/) (May 16-17, Romania)
-* [DevDay Europe](https://devdays.lt/) (May 21, Online)
-* [TeqNation](https://conference.teqnation.com/) (May 22, Netherlands)
-* [Voxxed Triestre](https://voxxeddays.com/trieste/) (May 30, Italia)
-* [DevFest Lille](https://devfest.gdglille.org/) (June 6-7, France)
-* [Code Europe](https://www.codeeurope.pl/) (June 10-11, Poland)
-* [Voxxed Luxembourg](https://luxembourg.voxxeddays.com/) (July 20-21, Luxembourg)
-* [OpenSouthCode 2024](https://www.opensouthcode.org/conferences/opensouthcode2024) (June 21-22, Spain)
-* [SunnyTech](https://sunny-tech.io/) (July 4-5, France)
-* [LeHack](https://lehack.org/) (July 5-7, France)
-* [Riviera Dev](https://rivieradev.fr/) (July 8-10, France)
+* [WeAreDevelopers](https://bit.ly/wearedevelopers2024) (May 8, Online)
+* [TiL conference](https://bit.ly/tilconf2024) (May 16-17, Online)
+* [DefCamp Cluj-Napoca](https://bit.ly/defcampcluj2024) (May 16-17, Romania)
+* [DevDay Europe](https://bit.ly/devdays2024) (May 21, Online)
+* [TeqNation](https://bit.ly/teqnation2024) (May 22, Netherlands)
+* [Voxxed Trieste](https://bit.ly/voxxedti2024) (May 30, Italia)
+* [DevFest Lille](https://bit.ly/devfestlille2024) (June 6-7, France)
+* [Code Europe](https://bit.ly/codeeurope2024) (June 10-11, Poland)
+* [Voxxed Luxembourg](https://bit.ly/voxxedlu2024) (July 20-21, Luxembourg)
+* [OpenSouthCode 2024](https://bit.ly/opensouthcode2024) (June 21-22, Spain)
+* [SunnyTech](https://bit.ly/sunnytech2024) (July 4-5, France)
+* [LeHack](https://bit.ly/lehack2024) (July 5-7, France)
+* [Riviera Dev](https://bit.ly/rivieradev2024) (July 8-10, France)
 
 
 ## Recorded Talks
 
 ### Cracking the Code: Decoding Anti-Bot Systems!
 
-* Devoxx France 2024, Paris, France ([video link](https://www.youtube.com/watch?v=6zCkdmen52U))
-* PyCon Lithuania 2024, Vilnius, Lithuania ([video link](https://www.youtube.com/watch?v=M7MP624XXnM))
-* Extract Summit 2023, Dublin, Ireland ([video link](https://www.youtube.com/watch?v=0KTIloOlDK0))
+* Devoxx France 2024, Paris, France ([video link](https://bit.ly/anatomyvideodevoxxfr2024))
+* PyCon Lithuania 2024, Vilnius, Lithuania ([video link](https://bit.ly/anatomyvideopyconlt2024))
+* Extract Summit 2023, Dublin, Ireland ([video link](https://bit.ly/anatomyvideoextractsummit2023))
 
 
 ### Live-Coding: Mastering Web Scraping with Scrapoxy
 
-* PyCon Lithuania 2024, Vilnius, Lithuania ([video link](https://www.youtube.com/watch?v=Gtnke2ehQ6U))
-* Node Congress 2024, Online ([video link](https://portal.gitnation.org/contents/mastering-web-scraping-with-scrapoxy-unleash-your-data-extraction-wizardry))
-* Open Source Day 2024, Florence, Italia ([video link](https://www.youtube.com/watch?v=Kcq36_lMbvY))
+* PyCon Lithuania 2024, Vilnius, Lithuania ([video link](https://bit.ly/webscrapingvideopyconlt2024))
+* Node Congress 2024, Online ([video link](https://bit.ly/webscrapingvideonodecongress2024))
+* Open Source Day 2024, Florence, Italia ([video link](https://bit.ly/webscrapingvideoosd2024))
 
 
 ### Machine Learning for Developer
 
-* Voxxed Days Luxembourg 2016, Luxembourg ([video link](https://www.youtube.com/watch?v=AbfCUNtNpRA))
+* Voxxed Days Luxembourg 2016, Luxembourg ([video link](https://bit.ly/mldevvideovoxxedlu2016))
 
 
 ### Datascience University
 
-* Devoxx France 2017, Paris, France ([video link](https://www.youtube.com/watch?v=eD8R39Pua9I))
+* Devoxx France 2017, Paris, France ([video link](https://bit.ly/mluniversityvideodevoxxfr2016))
