@@ -21,25 +21,26 @@
 
 ## Upcoming Events as Speaker ##
 
-* [WeAreDevelopers](https://bit.ly/wearedevelopers2024) (May 8, Online)
-* [TiL conference](https://bit.ly/tilconf2024) (May 16-17, Online)
-* [DefCamp Cluj-Napoca](https://bit.ly/defcampcluj2024) (May 16-17, Romania)
 * [DevDay Europe](https://bit.ly/devdays2024) (May 21, Online)
 * [TeqNation](https://bit.ly/teqnation2024) (May 22, Netherlands)
 * [Voxxed Trieste](https://bit.ly/voxxedti2024) (May 30, Italia)
 * [DevFest Lille](https://bit.ly/devfestlille2024) (June 6-7, France)
 * [Code Europe](https://bit.ly/codeeurope2024) (June 10-11, Poland)
+* [We Make Future](https://bit.ly/wemakefuture2024) (June 13-15, Italia)
 * [Voxxed Luxembourg](https://bit.ly/voxxedlu2024) (July 20-21, Luxembourg)
 * [OpenSouthCode 2024](https://bit.ly/opensouthcode2024) (June 21-22, Spain)
 * [SunnyTech](https://bit.ly/sunnytech2024) (July 4-5, France)
 * [LeHack](https://bit.ly/lehack2024) (July 5-7, France)
 * [Riviera Dev](https://bit.ly/rivieradev2024) (July 8-10, France)
+* [PyCon Estonia](https://bit.ly/pyconestonia2024) (September 5-6, Estonia)
 
 
 ## Recorded Talks
 
 ### Cracking the Code: Decoding Anti-Bot Systems!
 
+* DefCamp Cluj 2024, Cluj-Napoca, Romania (video TBD)
+* WeAreDevelopers 2024, Online (video TBD)
 * Devoxx France 2024, Paris, France ([video link](https://bit.ly/anatomyvideodevoxxfr2024))
 * PyCon Lithuania 2024, Vilnius, Lithuania ([video link](https://bit.ly/anatomyvideopyconlt2024))
 * Extract Summit 2023, Dublin, Ireland ([video link](https://bit.ly/anatomyvideoextractsummit2023))
@@ -47,6 +48,7 @@
 
 ### Live-Coding: Mastering Web Scraping with Scrapoxy
 
+* TiL conference 2024, Online (video TBD)
 * PyCon Lithuania 2024, Vilnius, Lithuania ([video link](https://bit.ly/webscrapingvideopyconlt2024))
 * Node Congress 2024, Online ([video link](https://bit.ly/webscrapingvideonodecongress2024))
 * Open Source Day 2024, Florence, Italia ([video link](https://bit.ly/webscrapingvideoosd2024))
