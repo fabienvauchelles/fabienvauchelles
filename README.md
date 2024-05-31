@@ -21,9 +21,6 @@
 
 ## Upcoming Events as Speaker ##
 
-* [DevDay Europe](https://bit.ly/devdays2024) (May 21, Online)
-* [TeqNation](https://bit.ly/teqnation2024) (May 22, Netherlands)
-* [Voxxed Trieste](https://bit.ly/voxxedti2024) (May 30, Italia)
 * [DevFest Lille](https://bit.ly/devfestlille2024) (June 6-7, France)
 * [Code Europe](https://bit.ly/codeeurope2024) (June 10-11, Poland)
 * [We Make Future](https://bit.ly/wemakefuture2024) (June 13-15, Italia)
@@ -39,6 +36,7 @@
 
 ### Cracking the Code: Decoding Anti-Bot Systems!
 
+* Voxxed Days Trieste, Italy (video TBD)
 * DefCamp Cluj 2024, Cluj-Napoca, Romania (video TBD)
 * WeAreDevelopers 2024, Online (video TBD)
 * Devoxx France 2024, Paris, France ([video link](https://bit.ly/anatomyvideodevoxxfr2024))
@@ -48,6 +46,8 @@
 
 ### Live-Coding: Mastering Web Scraping with Scrapoxy
 
+* TeqNation 2024, Utrecht, Netherlands (video TBD)
+* DevDay Europe 2024, Online (video TBD)
 * TiL conference 2024, Online (video TBD)
 * PyCon Lithuania 2024, Vilnius, Lithuania ([video link](https://bit.ly/webscrapingvideopyconlt2024))
 * Node Congress 2024, Online ([video link](https://bit.ly/webscrapingvideonodecongress2024))
