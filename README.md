@@ -36,7 +36,7 @@
 
 ### Cracking the Code: Decoding Anti-Bot Systems!
 
-* Voxxed Days Trieste, Italy (video TBD)
+* Voxxed Days Trieste, Italy ([video link](https://bit.ly/voxxedti2024video))
 * DefCamp Cluj 2024, Cluj-Napoca, Romania (video TBD)
 * WeAreDevelopers 2024, Online (video TBD)
 * Devoxx France 2024, Paris, France ([video link](https://bit.ly/anatomyvideodevoxxfr2024))
