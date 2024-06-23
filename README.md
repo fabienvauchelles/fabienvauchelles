@@ -30,6 +30,7 @@
 
 ### Cracking the Code: Decoding Anti-Bot Systems!
 
+* OpenSouthCode 2024, Malaga, Spain ([video link](https://bit.ly/osc2024antibot))
 * Voxxed Days Luxembourg (video TBD)
 * We Make Future, Bologna, Italy (video TBD)
 * DevFest Lille, France (video TBD)
@@ -43,7 +44,6 @@
 
 ### Live-Coding: Mastering Web Scraping with Scrapoxy
 
-* OpenSouthCode 2024, Malaga, Spain ([video link](https://bit.ly/osc2024antibot))
 * DevFest Lille, France (video TBD)
 * TeqNation 2024, Utrecht, Netherlands (video TBD)
 * DevDay Europe 2024, Online (video TBD)
