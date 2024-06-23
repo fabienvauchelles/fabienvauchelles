@@ -11,7 +11,6 @@
 <p>It also smartly handles traffic routing 🔀 to minimize bans and increase success rates 🚀.</p>
 
 
-
 ## ⚡🙋‍♂️ Contact Me
 
 [![Discord](https://img.shields.io/discord/1095676356496461934?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=Join%20Discord&labelColor=%235865F2&color=%23555555)](https://discord.gg/ktNGGwZnUD)
@@ -21,11 +20,6 @@
 
 ## Upcoming Events as Speaker ##
 
-* [DevFest Lille](https://bit.ly/devfestlille2024) (June 6-7, France)
-* [Code Europe](https://bit.ly/codeeurope2024) (June 10-11, Poland)
-* [We Make Future](https://bit.ly/wemakefuture2024) (June 13-15, Italia)
-* [Voxxed Luxembourg](https://bit.ly/voxxedlu2024) (July 20-21, Luxembourg)
-* [OpenSouthCode 2024](https://bit.ly/opensouthcode2024) (June 21-22, Spain)
 * [SunnyTech](https://bit.ly/sunnytech2024) (July 4-5, France)
 * [LeHack](https://bit.ly/lehack2024) (July 5-7, France)
 * [Riviera Dev](https://bit.ly/rivieradev2024) (July 8-10, France)
@@ -36,6 +30,9 @@
 
 ### Cracking the Code: Decoding Anti-Bot Systems!
 
+* Voxxed Days Luxembourg (video TBD)
+* We Make Future, Bologna, Italy (video TBD)
+* DevFest Lille, France (video TBD)
 * Voxxed Days Trieste, Italy ([video link](https://bit.ly/voxxedti2024video))
 * DefCamp Cluj 2024, Cluj-Napoca, Romania (video TBD)
 * WeAreDevelopers 2024, Online (video TBD)
@@ -46,6 +43,8 @@
 
 ### Live-Coding: Mastering Web Scraping with Scrapoxy
 
+* OpenSouthCode 2024, Malaga, Spain ([video link](https://bit.ly/osc2024antibot))
+* DevFest Lille, France (video TBD)
 * TeqNation 2024, Utrecht, Netherlands (video TBD)
 * DevDay Europe 2024, Online (video TBD)
 * TiL conference 2024, Online (video TBD)
