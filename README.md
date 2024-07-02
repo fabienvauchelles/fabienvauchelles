@@ -45,7 +45,7 @@
 ### Live-Coding: Mastering Web Scraping with Scrapoxy
 
 * DevFest Lille, France (video TBD)
-* TeqNation 2024, Utrecht, Netherlands (video TBD)
+* TeqNation 2024, Utrecht, Netherlands ([video link](https://bit.ly/teqnationvideo2024))
 * DevDay Europe 2024, Online (video TBD)
 * TiL conference 2024, Online (video TBD)
 * PyCon Lithuania 2024, Vilnius, Lithuania ([video link](https://bit.ly/webscrapingvideopyconlt2024))
