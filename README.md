@@ -53,6 +53,10 @@
 * Open Source Day 2024, Florence, Italia ([video link EN](https://bit.ly/webscrapingvideoosd2024))
 
 
+### Unlocking Happiness
+
+* Rayobyte interview ([video link EN](https://bit.ly/unlockhappinessrb))
+
 ### Machine Learning for Developer
 
 * Voxxed Days Luxembourg 2016, Luxembourg ([video link FR](https://bit.ly/mldevvideovoxxedlu2016))
