@@ -20,12 +20,16 @@
 
 ## Upcoming Events as Speaker ##
 
-* [PyCon Estonia](https://bit.ly/pyconestonia2024) (September 5, Estonia)
-* [Jug Summer Camp](https://www.jugsummercamp.org) (September 6, France)
-* [PyData Amsterdam](https://amsterdam.pydata.org) (September 18, Netherlands)
-* [Extract Summit](https://www.extractsummit.io) (October 9, USA)
-* [JavaCro 24](https://2024.javacro.hr) (October 13-16, Croatia)
+* [PyCon Estonia 2024](https://bit.ly/pyconestonia2024) (September 5, Estonia)
+* [Jug Summer Camp 2024](https://www.jugsummercamp.org) (September 6, France)
+* [What The Stack 2024](https://wts.sh/) (September 12-14, North Macedonia)
+* [PyData Amsterdam 2024](https://amsterdam.pydata.org) (September 18, Netherlands)
+* [Extract Summit 2024](https://www.extractsummit.io) (October 9, USA)
+* [JavaCro 2024](https://2024.javacro.hr) (October 13-16, Croatia)
+* [Ubuntu Summit 2024](https://events.canonical.com/event/51) (October 25-27, Netherlands)
 * [DevFest Toulouse 2024](https://devfesttoulouse.fr/) (November 7, France)
+* [DevDays Europe 2025](https://devdays.lt) (April 21-23, Lithuania)
+
 
 ## Recorded Talks
 
