@@ -20,14 +20,12 @@
 
 ## Upcoming Events as Speaker ##
 
-* [PyCon Estonia 2024](https://bit.ly/pyconestonia2024) (September 5, Estonia)
-* [Jug Summer Camp 2024](https://bit.ly/jugsummercamp) (September 6, France)
-* [What The Stack 2024](https://bit.ly/whatthestack) (September 12-14, North Macedonia)
 * [PyData Amsterdam 2024](https://bit.ly/pydataam) (September 18, Netherlands)
 * [Extract Summit 2024](https://bit.ly/extractsummit) (October 9, USA)
 * [JavaCro 2024](https://bit.ly/javacro24) (October 13-16, Croatia)
 * [Ubuntu Summit 2024](https://bit.ly/ubuntusummit2024) (October 25-27, Netherlands)
 * [DevFest Toulouse 2024](https://bit.ly/devfesttoulouse) (November 7, France)
+* [PyCon Wroclaw 2024](https://bit.ly/pyconwroclaw) (November 30, Poland)
 * [DevDays Europe 2025](https://bit.ly/devdayseurope) (April 21-23, Lithuania)
 
 
@@ -49,6 +47,9 @@
 
 ### Live-Coding: Mastering Web Scraping with Scrapoxy
 
+* What The Stack, Skopje, Macedonia (video TBD)
+* Jug Summer Camp, La Rochelle, France (video TBD)
+* PyCon Estonia, Tallinn, Estonia (video TBD)
 * DevFest Lille, France ([video link FR](https://bit.ly/devfestlille24mastering))
 * TeqNation 2024, Utrecht, Netherlands ([video link EN](https://bit.ly/teqnationvideo2024))
 * TiL conference 2024, Online ([video link EN](https://bit.ly/tilconf24video))
