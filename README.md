@@ -48,7 +48,7 @@
 ### Live-Coding: Mastering Web Scraping with Scrapoxy
 
 * What The Stack, Skopje, Macedonia (video TBD)
-* Jug Summer Camp, La Rochelle, France (video TBD)
+* Jug Summer Camp, La Rochelle, France ([video link FR](https://bit.ly/jugsummercampvideo))
 * PyCon Estonia, Tallinn, Estonia (video TBD)
 * DevFest Lille, France ([video link FR](https://bit.ly/devfestlille24mastering))
 * TeqNation 2024, Utrecht, Netherlands ([video link EN](https://bit.ly/teqnationvideo2024))
