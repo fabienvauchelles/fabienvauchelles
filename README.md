@@ -20,7 +20,6 @@
 
 ## Upcoming Events as Speaker ##
 
-* [Extract Summit 2024](https://bit.ly/extractsummit) (October 9, USA)
 * [JavaCro 2024](https://bit.ly/javacro24) (October 13-16, Croatia)
 * [Ubuntu Summit 2024](https://bit.ly/ubuntusummit2024) (October 25-27, Netherlands)
 * [DevFest Toulouse 2024](https://bit.ly/devfesttoulouse) (November 7, France)
