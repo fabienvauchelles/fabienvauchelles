@@ -25,6 +25,7 @@
 * [DevFest Toulouse 2024](https://bit.ly/devfesttoulouse) (November 7, France)
 * [PyCon Sweden 2024](https://bit.ly/pyconse) (November 14-15, Sweden)
 * [PyCon Ireland 2024](https://bit.ly/pyconie) (November 16-17, Ireland)
+* [Codeur en Seine 2024](https://bit.ly/codeurenseine2024) (November 21, France)
 * [Opensource Experience 2024](https://bit.ly/opensourcexpparis) (December 4-5, France)
 * [PyCon Wroclaw 2024](https://bit.ly/pyconwroclaw) (November 30, Poland)
 * [DevDays Europe 2025](https://bit.ly/devdayseurope) (April 21-23, Lithuania)
