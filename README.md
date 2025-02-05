@@ -48,7 +48,7 @@ I’ve spoken at conferences in
   
 ### Cracking the Code: Decoding Anti-Bot Systems!
 
-* in english: [OpenSouthCode 2024 <span title="Spain">🇪🇸</span>](https://bit.ly/osc2024antibot)
+* in english: [Le Hack 2024 <span title="France">🇫🇷</span>](https://bit.ly/lehackcrackingvideo)
 * in french: [SunnyTech 2024 <span title="France">🇫🇷</span>](https://bit.ly/sunnytech24video)
 
 ### Unlocking Happiness
