@@ -1,63 +1,57 @@
-# Hey there👋, I am Fabien the creator of Scrapoxy
+# Hey there👋, I am Fabien, CTO & Co-founder of Agely
 
-<img src="https://scrapoxy.io/assets/images/scrapoxy-warrior.png" width="18%" align="right" />
+<img src="https://agely.care/images/logo.png" width="22%" align="right" />
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&duration=3000&pause=100&color=D71919&vCenter=true&random=false&width=650&lines=Scrapoxy+is+a+super+proxy+aggregator;%F0%9F%91%89+It+is+free+and+open-source;%F0%9F%91%89+It+is+tailored+for+the+web+scraping+industry;%F0%9F%91%89+It+has+tons+of+connectors+and+useful+features)](https://git.io/typing-svg)
+**[Agely](https://agely.care)** is a voice-first AI care coordination platform for seniors.
 
-<p>
-  <a href="https://scrapoxy.io" target="_blank">Scrapoxy</a> is a super proxy aggregator, allowing you to manage all proxies in one place 🎯,<br/>
-  rather than spreading it across multiple scrapers 🕸️.
-</p>
-<p>It also smartly handles traffic routing 🔀 to minimize bans and increase success rates 🚀.</p>
+It orchestrates the people and services around them — family, caregivers, doctors — so the right person acts at the right time.
 
+> The world doesn't need another notification. It needs intelligent coordination.
 
-## ⚡🙋‍♂️ Contact Me
-
-[![Discord](https://img.shields.io/discord/1095676356496461934?style=for-the-badge&logo=discord&logoColor=%23ffffff&label=Join%20Discord&labelColor=%235865F2&color=%23555555)](https://discord.gg/ktNGGwZnUD)
-[![X](https://img.shields.io/badge/follow%20%40fabienv-x?style=for-the-badge&logo=x&labelColor=%23555555&color=%23555555)](https://twitter.com/fabienv)
+[![Website](https://img.shields.io/badge/agely.care-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://agely.care)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabienvauchelles)
+[![Agely LinkedIn](https://img.shields.io/badge/Agely-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/agelycare)
 
-I’ve spoken at conferences in
-<span title="Bulgaria">🇧🇬</span>,
-<span title="Croatia">🇭🇷</span>,
-<span title="Estonia">🇪🇪</span>,
-<span title="France">🇫🇷</span>,
-<span title="Ireland">🇮🇪</span>,
-<span title="Italy">🇮🇹</span>,
-<span title="Macedonia">🇲🇰</span>,
-<span title="Marocco">🇲🇦</span>,
-<span title="Poland">🇵🇱</span>,
-<span title="United States">🇺🇸</span>,
-<span title="Lithuania">🇱🇹</span>,
-<span title="Luxembourg">🇱🇺</span>,
-<span title="Romania">🇷🇴</span>,
-<span title="Spain">🇪🇸</span>,
-<span title="Sweden">🇸🇪</span>.
+---
 
-## Upcoming Events as Speaker ##
+## 👨‍💻 About Me
 
-* [DevDays Europe 2025](https://bit.ly/devdayseurope) (April 21-23, <span title="Lithuania">🇱🇹</span>)
+I bring **20+ years** of experience in product design and software development. I hold a dual degree from Université Paris-Sud in Engineering and Master Research in Distributed Systems.
 
+A **serial entrepreneur**, I have founded 3 companies with some nice exits :). I'm recognized internationally as an expert in **AI, Data Science and Webscraping**.
 
-## Recorded Talks
+I'm also the creator of [Scrapoxy](https://github.com/scrapoxy/scrapoxy), a popular open-source web scraping tool.
 
-### Live-Coding: Mastering Web Scraping with Scrapoxy
+---
 
-* in english: [WhatTheStack Conference 2024 <span title="Macedonia">🇲🇰</span>](https://bit.ly/whatthestackvideo)
-* in french: [DevFest Toulouse 2024 <span title="France">🇫🇷</span>](https://bit.ly/devfesttoulouse-scrapoxy)
-  
-### Cracking the Code: Decoding Anti-Bot Systems!
+## 🎤 International Speaker
 
-* in english: [Le Hack 2024 <span title="France">🇫🇷</span>](https://bit.ly/lehackcrackingvideo)
-* in french: [SunnyTech 2024 <span title="France">🇫🇷</span>](https://bit.ly/sunnytech24video)
+I've had the privilege of speaking at 100+ conferences across **15 countries**:
 
-### Unlocking Happiness
+<p align="center">
+<span title="Bulgaria">🇧🇬</span>
+<span title="Croatia">🇭🇷</span>
+<span title="Estonia">🇪🇪</span>
+<span title="France">🇫🇷</span>
+<span title="Ireland">🇮🇪</span>
+<span title="Italy">🇮🇹</span>
+<span title="Lithuania">🇱🇹</span>
+<span title="Luxembourg">🇱🇺</span>
+<span title="Macedonia">🇲🇰</span>
+<span title="Morocco">🇲🇦</span>
+<span title="Poland">🇵🇱</span>
+<span title="Romania">🇷🇴</span>
+<span title="Spain">🇪🇸</span>
+<span title="Sweden">🇸🇪</span>
+<span title="United States">🇺🇸</span>
+</p>
 
-* in english: [Rayobyte interview](https://bit.ly/unlockhappinessrb)
+### 📹 Some featured Talks
 
-### Machine Learning for Developer
-
-* in french: [Voxxed Days Luxembourg 2016 <span title="Luxembourg">🇱🇺</span>](https://bit.ly/mldevvideovoxxedlu2016)
-### Datascience University
-
-* in french: [Devoxx France 2017 <span title="France">🇫🇷</span>](https://bit.ly/mluniversityvideodevoxxfr2016)
+| Talk | 🇬🇧 English | 🇫🇷 French |
+|------|-------------|------------|
+| **Live-Coding: Mastering Web Scraping with Scrapoxy** | [WhatTheStack 2024 🇲🇰](https://bit.ly/whatthestackvideo) | [DevFest Toulouse 2024 🇫🇷](https://bit.ly/devfesttoulouse-scrapoxy) |
+| **Cracking the Code: Decoding Anti-Bot Systems!** | [Le Hack 2024 🇫🇷](https://bit.ly/lehackcrackingvideo) | [SunnyTech 2024 🇫🇷](https://bit.ly/sunnytech24video) |
+| **Unlocking Happiness** | [Rayobyte Interview](https://bit.ly/unlockhappinessrb) | — |
+| **Machine Learning for Developers** | — | [Voxxed Days Luxembourg 2016 🇱🇺](https://bit.ly/mldevvideovoxxedlu2016) |
+| **Datascience University** | — | [Devoxx France 2017 🇫🇷](https://bit.ly/mluniversityvideodevoxxfr2016) |
